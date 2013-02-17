@@ -4,11 +4,36 @@
    Author's custom styles
    ========================================================================== */
 
+.game img {
+  max-width: 200px; 
+}
 
-
-
-
-
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+    .game {
+        margin: 0 auto;
+    }
+    .game img {
+      display: block;
+        margin: 0 auto;
+      max-width: 200px; 
+    }
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+    .game {
+        margin: 0 auto;
+    }
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+    .game {
+        margin: 0 auto;
+    }
+}
 
 
 
