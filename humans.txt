@@ -4,10 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Trevor Landau -- Client Side -- @trevor_landau
+    Mark Grey -- Server Side
 
 # THANKS
 
-    <name>
+    Nintendo
 
 # TECHNOLOGY COLOPHON
 
