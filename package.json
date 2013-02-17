@@ -1,0 +1,21 @@
+{
+  "author": "Trevor Landau <landautrevor@gmail.com> (trevorlandau.net)",
+  "name": "nintendocs",
+  "description": "Nintendo documentation site that doesn't suck",
+  "version": "0.0.0",
+  "homepage": "nintendocs.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DeaconDesperado/nintendocs.git"
+  },
+  "scripts": {
+    "start": "./start.sh",
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}
